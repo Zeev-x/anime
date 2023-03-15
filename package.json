@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "anime-zee": "^1.0.0"
+  },
+  "name": "zeeva-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "zeev",
+  "license": "ISC",
+  "description": ""
+}
